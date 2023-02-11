@@ -11,6 +11,7 @@ public class TestClass1 {
 				"C:/Users/gokulpa/Documents/SCUBA DIVE 2023/Softwares/chromedriver_win32/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
+		
 		driver.quit();
 		// Master Branch
 		// Modified in GitHub workspace
