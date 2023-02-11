@@ -13,6 +13,8 @@ public class TestClass1 {
 		driver.get("https://www.google.com");
 		System.out.println(driver.getCurrentUrl());
 		driver.quit();
+		
+		
 		// GokulBranch
 	}
 
